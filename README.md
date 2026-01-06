@@ -169,7 +169,6 @@ This is a hackathon project, but feedback and suggestions are welcome!
 
 ---
 ## 🙌 Author
-Built with care by Swapnil Nicolson Dadel
-For students who just need a moment of peace 🌱
+Built with care by Swapnil Nicolson Dadel for students who just need a moment of peace 🌱
 
 **Built with love and care for student mental health** 💜
