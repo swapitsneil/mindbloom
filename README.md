@@ -106,7 +106,7 @@ No judgment.
    ```bash
    cp .env.local.example .env.local
    ```
-   Then add your OpenRouter API key to `.env.local`
+   Then add your API key (gemini, openai or any) to `.env.local`
 
 3. **Run development server**
    ```bash
