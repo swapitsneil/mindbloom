@@ -1,6 +1,6 @@
 # 🌱 MindBloom — Your Calm AI Companion for Students
 
-MindBloom is a gentle, student-focused AI companion designed to help users feel heard, grounded, and supported during stressful moments — exams, job loss, burnout, or loneliness.
+MindBloom is a gentle, student-focused AI companion designed to help users feel heard, grounded, and supported during stressful moments exams, job loss, burnout, or loneliness.
 
 It is **not therapy**.  
 It is a **safe first step** toward mental clarity and self-reflection.
