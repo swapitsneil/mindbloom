@@ -1,20 +1,83 @@
-# MindBloom - Emotional Support Companion
+# 🌱 MindBloom — Your Calm AI Companion for Students
 
-<div align="center">
+MindBloom is a gentle, student-focused AI companion designed to help users feel heard, grounded, and supported during stressful moments — exams, job loss, burnout, or loneliness.
 
-Made with ❤️ Swapnil Nicolson Dadel | Hackathon Project
+It is **not therapy**.  
+It is a **safe first step** toward mental clarity and self-reflection.
 
-</div>
+---
 
-MindBloom is a compassionate AI-powered emotional support companion designed specifically for students. It provides a safe space to express feelings and offers supportive, non-judgmental conversations.
+## 🧠 Problem
 
-## 🌟 Features
+Students today face:
 
-- **AI-Powered Chat**: Intelligent conversations with emotional support focus
-- **Mood Tracking**: Log and track your emotional well-being over time
-- **Journal**: Private space for reflection and thoughts
-- **Session-Based Memory**: Fresh conversations on each visit for privacy
-- **Local Storage**: All data stays on your device
+- Academic pressure and deadlines  
+- Career uncertainty and job loss  
+- Financial stress  
+- Emotional burnout  
+- Limited access to counselors (cost, wait time, hesitation)
+
+Most students don’t need therapy immediately —  
+they need **someone to listen, calm them down, and guide them gently**.
+
+---
+
+## 🌼 Solution — MindBloom
+
+MindBloom provides:
+
+- 🤍 A calm AI chat companion available 24/7  
+- 🧘 Short, grounding coping steps (breathing, reflection, journaling)  
+- 📓 A private journaling space tied to calendar dates  
+- 😊 Daily mood tracking  
+- 🔒 100% private — everything stays on the user’s device  
+- 🚨 Gentle safety escalation when distress is detected  
+
+No pressure.  
+No diagnosis.  
+No judgment.
+
+---
+
+## ✨ Key Features
+
+### 💬 AI Chat Companion
+- Supportive, human-like responses
+- Progressive conversation (no repetitive replies)
+- Session-based memory (resets on refresh)
+- Powered by **free OpenRouter AI model**
+
+### 📓 Smart Journaling
+- Write entries for **any past date**
+- Calendar highlights saved days
+- Edit and revisit old thoughts easily
+- Perfect for self-reflection and emotional clarity
+
+### 😊 Mood Tracking
+- Track how you feel daily
+- Mood is linked with journal entries
+- Helps recognize emotional patterns over time
+
+### 🛡️ Safety-First Design
+- Not therapy, not medical advice
+- Encourages real-world support when needed
+- Calm, student-friendly tone throughout
+
+---
+
+## 🖼️ Screenshots
+
+
+
+<img width="2844" height="1512" alt="Image" src="https://github.com/user-attachments/assets/a5447019-f172-46d8-a39a-215131df831e" />
+
+<img width="2854" height="1520" alt="Image" src="https://github.com/user-attachments/assets/fa9fd467-b74d-43dd-85d3-f0b0de2bb857" />
+
+<img width="2850" height="1428" alt="Image" src="https://github.com/user-attachments/assets/25a35663-0140-45b0-8429-d79e2394793d" />
+
+<img width="2828" height="1478" alt="Image" src="https://github.com/user-attachments/assets/7e14a397-d81a-4e9e-98ec-1f1a047c4b73" />
+
+<img width="2798" height="1468" alt="Image" src="https://github.com/user-attachments/assets/b1329456-b477-46b6-86b5-f2927fde66cb" />
 
 ## 🛠️ Tech Stack
 
@@ -99,10 +162,14 @@ This project was built for a hackathon with the following objectives:
 - ✅ Ensure complete user privacy through local storage
 - ✅ Build with modern, accessible UI/UX
 
+
 ## 🤝 Contributing
 
 This is a hackathon project, but feedback and suggestions are welcome!
 
 ---
+## 🙌 Author
+Built with care by Swapnil Nicolson Dadel
+For students who just need a moment of peace 🌱
 
 **Built with love and care for student mental health** 💜
