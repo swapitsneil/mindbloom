@@ -81,11 +81,22 @@ No judgment.
 
 ## 🛠️ Tech Stack
 
-- **Framework**: Next.js 15 with React 19
-- **Styling**: Tailwind CSS with shadcn/ui components
-- **AI**: OpenRouter API with Xiaomi Mimo model
-- **Storage**: LocalStorage for client-side data persistence
-- **Language**: TypeScript
+### Frontend
+- Next.js (App Router)
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+
+### AI & Backend
+- OpenRouter API
+- model: xiaomi/mimo-v2-flash:free
+- Server-side Node.js runtime
+- In-memory session handling (no database)
+
+### Storage
+- Browser LocalStorage only
+- No backend database
+- No authentication
 
 ## 🚀 Getting Started
 
