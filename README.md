@@ -79,6 +79,8 @@ No judgment.
 
 <img width="2798" height="1468" alt="Image" src="https://github.com/user-attachments/assets/b1329456-b477-46b6-86b5-f2927fde66cb" />
 
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -98,13 +100,15 @@ No judgment.
 - No backend database
 - No authentication
 
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
 
 - Node.js 18+ 
 - npm, yarn, or pnpm
-- OpenRouter API key
+- OpenRouter API key or any API key
 
 ### Installation
 
