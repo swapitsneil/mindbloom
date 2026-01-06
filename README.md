@@ -1,36 +1,108 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# MindBloom - Emotional Support Companion
 
-## Getting Started
+<div align="center">
 
-First, run the development server:
+Made with ❤️ Swapnil Nicolson Dadel | Hackathon Project
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+</div>
+
+MindBloom is a compassionate AI-powered emotional support companion designed specifically for students. It provides a safe space to express feelings and offers supportive, non-judgmental conversations.
+
+## 🌟 Features
+
+- **AI-Powered Chat**: Intelligent conversations with emotional support focus
+- **Mood Tracking**: Log and track your emotional well-being over time
+- **Journal**: Private space for reflection and thoughts
+- **Session-Based Memory**: Fresh conversations on each visit for privacy
+- **Local Storage**: All data stays on your device
+
+## 🛠️ Tech Stack
+
+- **Framework**: Next.js 15 with React 19
+- **Styling**: Tailwind CSS with shadcn/ui components
+- **AI**: OpenRouter API with Xiaomi Mimo model
+- **Storage**: LocalStorage for client-side data persistence
+- **Language**: TypeScript
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js 18+ 
+- npm, yarn, or pnpm
+- OpenRouter API key
+
+### Installation
+
+1. **Clone and install dependencies**
+   ```bash
+   npm install
+   ```
+
+2. **Set up environment variables**
+   ```bash
+   cp .env.local.example .env.local
+   ```
+   Then add your OpenRouter API key to `.env.local`
+
+3. **Run development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Open the app**
+   ```
+   http://localhost:3000
+   ```
+
+## 📁 Project Structure
+
+```
+src/
+├── app/
+│   ├── api/
+│   │   └── chat/          # AI chat API route
+│   ├── chat/              # Chat interface
+│   ├── journal/           # Journal entries
+│   ├── mood/              # Mood tracking
+│   └── page.tsx           # Home page
+├── components/
+│   └── shared/            # Reusable UI components
+├── lib/
+│   ├── hooks/
+│   │   └── useChat.ts     # Custom chat hook
+│   └── storage/           # LocalStorage managers
+├── agents/
+│   └── ai-agents.ts       # AI safety & response agents
+└── types/
+    └── index.ts           # TypeScript definitions
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔒 Privacy & Security
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Local Storage Only**: All chat history, mood logs, and journal entries are stored locally in your browser
+- **Session-Based**: Backend memory clears on server restart
+- **No Medical Advice**: This is emotional support, not therapy
+- **Emergency Resources**: Clear disclaimers and crisis helpline information
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ⚠️ Important Disclaimer
 
-## Learn More
+**MindBloom is not therapy or a replacement for professional help.** If you are in crisis or danger, please reach out to emergency services or a mental health professional immediately.
 
-To learn more about Next.js, take a look at the following resources:
+## 🎯 Project Goals
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This project was built for a hackathon with the following objectives:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- ✅ Create a safe, judgment-free space for emotional expression
+- ✅ Implement AI-powered supportive conversations
+- ✅ Provide mood tracking and journaling capabilities
+- ✅ Ensure complete user privacy through local storage
+- ✅ Build with modern, accessible UI/UX
 
-## Deploy on Vercel
+## 🤝 Contributing
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This is a hackathon project, but feedback and suggestions are welcome!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+**Built with love and care for student mental health** 💜
