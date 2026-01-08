@@ -80,7 +80,7 @@ No judgment.
 <img width="2798" height="1468" alt="Image" src="https://github.com/user-attachments/assets/b1329456-b477-46b6-86b5-f2927fde66cb" />
 
 ---
-## Deployment
+## 🔗‍️ Deployment
 
 vercel - https://mindbloom-snowy.vercel.app/
 
