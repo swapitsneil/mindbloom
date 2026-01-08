@@ -125,7 +125,7 @@ vercel - https://mindbloom-snowy.vercel.app/
 
 2. **Set up environment variables**
    ```bash
-   cp .env.local.example .env.local
+   cp .env.local
    ```
    Then add your API key (gemini, openai or any) to `.env.local`
 
