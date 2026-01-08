@@ -5,6 +5,7 @@ MindBloom is a gentle, student-focused AI companion designed to help users feel 
 It is **not therapy**.  
 It is a **safe first step** toward mental clarity and self-reflection.
 
+vercel - https://mindbloom-snowy.vercel.app/
 ---
 
 ## 🧠 Problem
@@ -15,9 +16,9 @@ Students today face:
 - Career uncertainty and job loss  
 - Financial stress  
 - Emotional burnout  
-- Limited access to counselors (cost, wait time, hesitation)
+- Limited access to counsellors (cost, wait time, hesitation)
 
-Most students don’t need therapy immediately —  
+Most students don’t need therapy immediately -
 they need **someone to listen, calm them down, and guide them gently**.
 
 ---
@@ -30,7 +31,7 @@ MindBloom provides:
 - 🧘 Short, grounding coping steps (breathing, reflection, journaling)  
 - 📓 A private journaling space tied to calendar dates  
 - 😊 Daily mood tracking  
-- 🔒 100% private — everything stays on the user’s device  
+- 🔒 100% private - everything stays on the user’s device  
 - 🚨 Gentle safety escalation when distress is detected  
 
 No pressure.  
