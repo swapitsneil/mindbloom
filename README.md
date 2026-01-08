@@ -5,7 +5,6 @@ MindBloom is a gentle, student-focused AI companion designed to help users feel 
 It is **not therapy**.  
 It is a **safe first step** toward mental clarity and self-reflection.
 
-vercel - https://mindbloom-snowy.vercel.app/
 ---
 
 ## 🧠 Problem
@@ -81,6 +80,12 @@ No judgment.
 <img width="2798" height="1468" alt="Image" src="https://github.com/user-attachments/assets/b1329456-b477-46b6-86b5-f2927fde66cb" />
 
 ---
+## Deployment
+
+vercel - https://mindbloom-snowy.vercel.app/
+
+---
+
 
 ## 🛠️ Tech Stack
 
