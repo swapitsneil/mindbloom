@@ -70,7 +70,7 @@ No judgment.
 
 ## 🖼️ Screenshots
 
-
+![Image](https://github.com/user-attachments/assets/d6cc8e37-e1a2-4c62-86c3-39b59e60bb94)
 
 <img width="2844" height="1512" alt="Image" src="https://github.com/user-attachments/assets/a5447019-f172-46d8-a39a-215131df831e" />
 
