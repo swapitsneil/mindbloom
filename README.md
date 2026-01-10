@@ -7,6 +7,7 @@ It is a **safe first step** toward mental clarity and self-reflection.
 
 ---
 <img width="2700" height="1400" alt="Image" src="https://github.com/user-attachments/assets/48f93293-e166-4e81-9162-480e8f0c10fe" />
+
 ---
 
 ## 🧠 Problem
