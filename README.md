@@ -196,3 +196,15 @@ This is a hackathon project, but feedback and suggestions are welcome!
 Built with care by **Swapnil Nicolson Dadel** for students who just need a moment of peace 🌱
 
 **Built with love and care for student mental health** 💜
+
+---
+## 📬 Contact
+
+If you’d like to connect, collaborate, or discuss opportunities, feel free to reach out:
+
+- 📧 Email: **swapnilnicolson.201@gmail.com**
+- 💼 GitHub: https://github.com/swapitsneil
+
+I’m open to feedback, collaboration, and job opportunities.
+
+---
